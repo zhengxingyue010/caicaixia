@@ -1,0 +1,8 @@
+{
+  "name": "财财虾 - 智能账务处理与风险主动防御系统",
+  "description": "基于Agentic AI与OpenClaw框架的智能化账务处理与风险防控系统。集成发票处理、银行对账、月末结账及税务风险雷达，实现全链路自动化财税管理。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
